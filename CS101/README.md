@@ -1,9 +1,9 @@
 
-### CS101 
+### Course: 컴퓨터 개론
 
-## 01. 컴퓨터 개론
+### Topic 1: 프로그래밍 시작하기 In Python
 
-### 1.1 프로그래밍 시작하기 In Python
+> 개발의 기본기 쌓기
 
 <details>
 <summary>Curriculum</summary>
@@ -24,6 +24,7 @@
 
 3. 추상화: 코드를 더 읽기 쉽게 만들어주는 상징
     - 더 좋은 추상화를 위해 설명적인 변수, 함수, 객체 이름을 정한다.
+    - [Abstraction](https://github.com/4923/codeit/blob/main/CS101/abstraction.md): Is a method to hide the internal functionality of the 'function' from users. Therefore users inspect the core implement of the functions, not inner architecture. (e.g variable, function, object)
 4. 변수: 값을 저장한다.
     - 변수를 이용한 실습: 칼로리 계산기
 5. 함수: 명령을 저장한다.
@@ -39,10 +40,20 @@
     - 함수의 결과값
 </details>
 
-- [Abstraction](https://github.com/4923/codeit/blob/main/CS101/abstraction.md): Is a method to hide the internal functionality of the 'function' from users. Therefore users inspect the core implement of the functions, not inner architecture. (e.g variable, function, object)
+### Topic 2: 프로그래밍 언어 이해하기
+> 프로그래밍 언어를 이해할 수 있는 세가지 패러다임 소개
 
-### 1.2 프로그래밍 언어 이해하기
+<details>
+<summary>Curriculum</summary>
 
-### 1.3 프로그래머의 세계 이해하기
+> 왜 알아야 하는가?: 언어의 특성에 따라 개발시 초점을 두어야 할 부분이 달라진다.
+1. [OOP? or Not](https://github.com/4923/codeit/blob/main/CS101/OOP.md)
+2. [Data type: Static? or Dynamic?](https://github.com/4923/codeit/blob/main/CS101/typing.md)
+3. Human Friendly? or Not: 기계어에 가까운 low level 언어인가 사람 언어에 가까운 high level 언어인가; 성능에 집중할 수 있는 저수준 언어, 논리와 기능에 집중할 수 있는 고수준 언어.
+- 특수목적언어: R, SQL, HTML/CSS, , MATLAB, Csound, Scratch
 
-### 1.4 소프트웨어 이해하기
+</details>
+
+### Topic 3: 프로그래머의 세계 이해하기
+
+### Topic 4: 소프트웨어 이해하기
