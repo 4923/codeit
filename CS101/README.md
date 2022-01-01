@@ -39,7 +39,7 @@
     - 함수의 결과값
 </details>
 
-Abstraction: Is a method to hide the internal functionality of the 'function' from users. Therefore users inspect the core implement of the functions, not inner architecture. (e.g variable, function, object)
+- [Abstraction](https://github.com/4923/codeit/blob/main/CS101/abstraction.md): Is a method to hide the internal functionality of the 'function' from users. Therefore users inspect the core implement of the functions, not inner architecture. (e.g variable, function, object)
 
 ### 1.2 프로그래밍 언어 이해하기
 

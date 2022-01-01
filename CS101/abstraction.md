@@ -52,6 +52,7 @@ BMI2 = weight / (height ** 2)
             - full source code
                 <details>
                 <summary>source code: python builtin module 'print'</summary>
+
                 ```c
                 // github: cpython/Python/bltinmodule.c
 
@@ -135,6 +136,7 @@ BMI2 = weight / (height ** 2)
                     Py_RETURN_NONE;
                 }
                 ```
+                
                 </details>
         2. local에서 확인하는 방법: `inspect`
             ```py
