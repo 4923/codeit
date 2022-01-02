@@ -92,7 +92,15 @@
         - 새 파일 전체를 저장하는게 아니라 수정한 기록만 저장한다.
     4. IDE
 2. 트렌드를 읽는 능력
-    1. 
+    - 어떤 공부를 해야할까, 어떤 기술을 사용해야 할까?: 언어, 프레임워크, 디자인패턴 ... 
+        1. 활발한 기술: 커뮤니티의 크기
+            - [RedMonk 에서 발표하는 통계자료](https://redmonk.com/sogrady/category/programming-languages/)
+            - 2021년의 프로그래밍 언어 랭킹이다. Y축은 커뮤니티의 크기, X축은 작업이 얼마나 잦은 빈도로 활발하게 이루어지는지를 표현하는 지표다.
+            ![redmonk-2021-programming-language-rank](https://redmonk.com/sogrady/files/2021/08/lang.rank_.0621.png)
+        2. 인정받는 기술: 기업의 기술 스택
+            - [stackshare: 기업에서 사용하는 기술 정보를 모은 서비스](https://stackshare.io/feed)
+        3. 유망한 기술: IT 산업 전반의 흐름
+            - Gartner에서 IT 산업 전반의 트렌드를 확인할 수 있다.
 
 </details>
 
