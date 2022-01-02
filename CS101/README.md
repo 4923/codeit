@@ -46,14 +46,33 @@
 <details>
 <summary>Curriculum</summary>
 
-> 왜 알아야 하는가?: 언어의 특성에 따라 개발시 초점을 두어야 할 부분이 달라진다.
-1. [OOP? or Not](https://github.com/4923/codeit/blob/main/CS101/OOP.md)
-2. [Data type: Static? or Dynamic?](https://github.com/4923/codeit/blob/main/CS101/typing.md)
-3. Human Friendly? or Not: 기계어에 가까운 low level 언어인가 사람 언어에 가까운 high level 언어인가; 성능에 집중할 수 있는 저수준 언어, 논리와 기능에 집중할 수 있는 고수준 언어.
-- 특수목적언어: R, SQL, HTML/CSS, , MATLAB, Csound, Scratch
+1. 프로그래밍 언어 이해하기
+    > 왜 알아야 하는가?: 언어의 특성에 따라 개발시 초점을 두어야 할 부분이 달라진다.
+    1. [OOP? or Not](https://github.com/4923/codeit/blob/main/CS101/OOP.md)
+    2. [Data type: Static? or Dynamic?](https://github.com/4923/codeit/blob/main/CS101/typing.md)
+    3. Human Friendly? or Not: 기계어에 가까운 low level 언어인가 사람 언어에 가까운 high level 언어인가; 성능에 집중할 수 있는 저수준 언어, 논리와 기능에 집중할 수 있는 고수준 언어.
+    - 특수목적언어: R, SQL, HTML/CSS, , MATLAB, Csound, Scratch
+2. '더 나은 프로그램' 만들기
+    > 개발자는 코드로 소통하고 한번 짠 코드는 계속해서 사용하게 되므로 더 `읽기 쉽고` `이해하기 쉬운` 코드를 짜는 것이 중요하다.
+    1. 가독성 좋은 코드란?
+        - comment는 개발자에게 전하는 메시지다. 코드를 가장 잘 설명할 수 있는적절한 길이의 주석을 작성하도록 하자.
+        - 이름을 잘 짓는건 추상화와 직결되므로 코드의 질을 결정한다.
+    2. 읽기 쉬운 코드: style guide == convention
+        - naming convention:
+            - Snake: math_score, pascal: MathScore, CamelCase: mathScore 
+    3. [구조화가 잘 된 코드란?](https://github.com/4923/codeit/blob/main/CS101/design-pattern.md)
+    4. 라이브러리와 프레임워크, 차이점은?
+        - 내가 만들고 싶은 코드, 필요한 코드를 이미 다른 사람이 만든 경우가 비일비재하다. 이 때, 내 코드를 다른 사람도 사용할 수 있게 만든 것이: 라이브러리, 프레임워크.
+        - 언어 공용이 아니므로 언어를 선택하는 기준이 되기도 한다.
+        - 프레임워크 vs 라이브러리
+            - 프레임워크: 내가 코드만 넣으면 완성되는 미완성 코드 (e.g. 프랜차이즈 카페)
+            - 라이브러리: 다른 사람이 만들어놓은 완성 코드, 일종의 도구 (e.g. 카페의 음료 제조기계)
+
+
 
 </details>
 
 ### Topic 3: 프로그래머의 세계 이해하기
+
 
 ### Topic 4: 소프트웨어 이해하기
