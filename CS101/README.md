@@ -93,6 +93,8 @@
 
 ### Topic 3: 프로그래머의 세계 이해하기
 
+> CS입문하기, 개발자와 소통하기 위해 알아야 할 가장 기본적인 상식
+
 <details>
 <summary>Curriculum</summary>
 
@@ -124,6 +126,8 @@
 </details>
 
 ### Topic 4: 소프트웨어 이해하기
+
+> 운영체제와 웹 애플리케이션
 
 <details>
 <summary>Curriculum</summary>
