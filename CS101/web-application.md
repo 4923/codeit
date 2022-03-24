@@ -47,3 +47,5 @@ Web App 또한 웹 페이지의 일종이므로 이 과정을 거쳐야 하는�
 - [SPA/SPA까지의 발전과정, SPA의 routing](https://reimaginer.tistory.com/entry/spa-and-spa-routing)
 - [SPA/SPA란 무엇인가](https://linked2ev.github.io/devlog/2018/08/01/WEB-What-is-SPA/)
 - [SPA/CDN이 뭐길래?](https://velog.io/@www_1216/깃허브도-스택오버플로우도-터졌다.-CDN이-뭐길래)
+- [PWA의 대표적인 예: starbucks](https://app.starbucks.com)
+- [PWA의 대표적인 예: pinterest](https://www.pinterest.co.kr)
