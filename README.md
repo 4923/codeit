@@ -10,7 +10,7 @@
 
 | Course | Level | |
 |:-|:-|:-|
-|컴퓨터 개론 | 입문 | General | 
+|[컴퓨터 개론](https://github.com/4923/codeit/tree/main/CS101) | 입문 | General | 
 |프로그래밍 기초 in Python | 초급 | Python |
 |Python 중급 | 중급 | Python |
 |알고리즘의 정석 | 중급 | Python |
@@ -21,12 +21,12 @@
 |개발자를 위함 SQL 데이터베이스 | 중급 | SQL |
 |컴퓨터 아키텍처 | 초급 | General |
 
-## web101
+## Web101
 > Web FE, publishing Basic: '웹 개발 스쿨', '웹 프론트엔드 스쿨'
 
 | Course | Level | |
 |:-|:-|:-|
-| 웹 퍼블리싱 | HTML/CSS | 초급 |
+| [웹 퍼블리싱](https://github.com/4923/codeit/tree/main/web-publishing) | HTML/CSS | 초급 |
 | Django 웹 개발 | Python | 중급 |
 | 프로그래밍 기초 in JavaScript | JavaScript | 초급 |
 | JavaScript 중급 | JavaScript | 초급 |
