@@ -4,6 +4,8 @@
 <p align="center">Mission! Complete Code-it courses in 3 months</p>
 </p>
 
+> **Code-it의 단위**  
+School > Course > Chapter > Lesson
 
 ## CS101
 > 컴퓨터공학의 기초: '컴퓨터 공학 스쿨'
